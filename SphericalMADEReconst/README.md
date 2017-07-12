@@ -1,4 +1,6 @@
-# 2D Image Reconstruction using Spherical Multidimensional Scaling and MADE measure
+# SphericalMADEReconst
+
+**2D Image Reconstruction using Spherical Multidimensional Scaling and MADE measure**
 
 **Author**: Minh-Son Phan
 
