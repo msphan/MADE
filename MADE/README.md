@@ -1,7 +1,7 @@
 # Moments-Based Angular Difference Estimation Between Two Tomographic Projections in 2D and 3D (MADE method)
 **Author**: Minh-Son Phan
 
-<img src="result/128px_100prjs.png" width="600" height="300" align="right" />
+<img src="result/MADE-Illustration.png" width="400" height="600" align="right" />
 
 ## Introduction
 
