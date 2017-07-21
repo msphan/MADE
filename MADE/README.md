@@ -1,6 +1,6 @@
 # MADE
 
-**Moments-Based Angular Difference Estimation Between Two Tomographic Projections in 2D and 3D**
+**Moments-Based Angular Difference Estimation Between Two Tomographic Projections in 2D and 3D.**
 
 <img src="result/MADE-Illustration.png" width="400" height="600" align="right" />
 
