@@ -6,8 +6,8 @@
 
 ## Introduction
 
-<img src="result/128px_100prjs.png" width="500" height="200" align="center"/>
-<img src="result/128px_50prjs.png" width="500" height="200" align="center"/>
+<img src="result/128px_100prjs.png" width="500" height="170" align="left"/>
+<img src="result/128px_50prjs.png" width="500" height="170" align="left"/>
 
 This project develops a new algorithm for reconstructing a 2D object from a set of its 1D projections. 
 The angles of the projections are not known in prior.
