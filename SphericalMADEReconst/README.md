@@ -19,16 +19,10 @@ Please read the papers below for more detail:
 1. [MADE measure](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7025348)
 2. [Spherical Multidimensional Scaling](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2898708/)
 
-**Language**: Matlab (tested for Matlab 2013 and above).
+## Remark 
 
-## File structure
-
-    phantoms: simulated images
-    func: functions
-    src: source file
-    result: reconstructed results
-    toolbox: external functions
-    
+Tested for Matlab 2013 and above.
+ 
 ## How to test
 
 Simply run src1_made2d.m in Matlab.
