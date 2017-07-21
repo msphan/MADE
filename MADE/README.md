@@ -12,12 +12,6 @@ is often found in medical imaging when object moves during the acquisition, or i
 the MADE method can be replaced for the Euclidiean distance in the process of tomographic reconstruction.
 
 #### More Detail: Please read this [paper](http://link.springer.com/article/10.1007/s10851-016-0673-5?view=classic).
-
-## File structure
-
-    - data : simulated images
-    - functions
-    - src: source files
     
 ## Remark
 
